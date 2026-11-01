@@ -104,6 +104,8 @@ The project includes SQL queries covering:
 - Credit cards accounted for 75.24% of payment-method order counts.
 - Boleto accounted for 19.46%.
 - Credit cards were the most frequently used payment method.
+- Credit cards: 78.46% of total payment value.
+- Boleto: 17.96% of total payment value.
 
 ### Seller & Geographic Performance
 
