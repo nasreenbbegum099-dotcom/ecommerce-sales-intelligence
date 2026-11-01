@@ -118,19 +118,10 @@ The project includes SQL queries covering:
 ```text
 ecommerce-sales-intelligence/
 │
-├── data/
-│   └── raw/
-│
-├── python/
-│
 ├── sql/
 │   └── analysis_queries.sql
 │
-├── powerbi/
-│
-├── reports/
-│
-├── visualizations/
+├── 02_Python_EDA.ipynb
 │
 └── README.md
 ```
