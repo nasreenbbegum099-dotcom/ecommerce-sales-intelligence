@@ -135,15 +135,15 @@ ecommerce-sales-intelligence/
 
 ## Project Status
 
-- [x] Dataset collection
-- [x] Data cleaning and preparation
-- [x] Data quality validation
-- [x] SQL database setup
-- [x] SQL business analysis
-- [x] Initial business insights
-- [ ] Python exploratory data analysis
-- [ ] Power BI dashboard development
-- [ ] Final project report
+[x] Dataset collection
+[x] Data cleaning and preparation
+[x] Data quality validation
+[x] SQL database setup
+[x] SQL business analysis
+[x] Initial business insights
+[x] Python exploratory data analysis
+[ ] Power BI dashboard development
+[ ] Final project report
 
 ## Author
 
